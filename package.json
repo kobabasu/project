@@ -1,0 +1,34 @@
+{
+  "name": "{{PROJ_NAME}}",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {},
+
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-este-watch": "*",
+    "grunt-contrib-coffee": "*",
+    "grunt-contrib-requirejs": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-coffeelint": "*",
+    "grunt-contrib-yuidoc": "*",
+    "grunt-contrib-compass": "*",
+    "grunt-csso": "*",
+    "grunt-styleguide": "*",
+    "grunt-exec": "*",
+    "grunt-contrib-imagemin": "*",
+    "mocha": "*",
+    "chai": "*",
+    "karma": "*",
+    "karma-coverage": "*",
+    "karma-requirejs": "*",
+    "karma-mocha": "*",
+    "karma-chai": "*",
+    "karma-chai-jquery": "*",
+    "karma-sinon-chai": "*",
+    "karma-phantomjs-launcher": "*",
+    "karma-chrome-launcher": "*",
+    "karma-firefox-launcher": "*",
+    "karma-ie-launcher": "*"
+  }
+}
