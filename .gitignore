@@ -11,5 +11,8 @@ site
 coreos
 
 vendor/*
-share/*
+dockerfiles/*
+log/*
+www/*
+
 !.gitkeep
