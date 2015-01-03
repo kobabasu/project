@@ -31,6 +31,11 @@ sed -i -e 's/{{PROJ_NAME}}/'"${PROJ_NAME}"'/' package.json
 sed -i -e 's/{{PROJ_NAME}}/'"${PROJ_NAME}"'/' bower.json 
 
 # install
+echo "\nwait for few minutes while install npm...\n"
 npm install
+
+echo "\nwait for few minutes while install bundle...\n"
 bundle install --path vendor/bundle
+
+echo "\nwait for few minutes while install bower...\n"
 bower install
