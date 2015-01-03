@@ -7,7 +7,6 @@ package.json-e
 Gemfile.lock
 node_modules
 npm-debug-log
-coverage
 site
 coreos
 

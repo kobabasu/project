@@ -18,6 +18,7 @@
     
     "normalize": "necolas/normalize.css",
     "bootstrap": null,
+    "bootstrap-sass": null,
 
     "cookie": "carhartl/jquery-cookie"
   }
